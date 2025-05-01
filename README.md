@@ -1,5 +1,5 @@
 # terrariaAPKWIKI-fanmade
-<hr>
+
 <!DOCTYPE html>
 <html>
 <head>
